@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: jdbc:mysql://121.43.160.6:3306/firework-blog
+    username: root
+    password: wangwangadmin
